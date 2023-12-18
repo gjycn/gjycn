@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <p align="center"> 
-  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/85286156-5fa6-458e-ae00-7887360a025d/image.png](https://www.credly.com/badges/2f2debaf-3f8e-46d0-abea-ef6f69b09ddd/public_url" alt="trophy" />
+  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/2f2debaf-3f8e-46d0-abea-ef6f69b09ddd/image.png" alt="trophy" />
 </p>
+
 
 
 <!--
